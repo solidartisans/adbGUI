@@ -1,0 +1,127 @@
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe.config
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Release\shomronsAdbGui.pdb
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Release\sjd.apk.reader.dll
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.AssemblyReference.cache
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.BackupRestore.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ApkInfoForm.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Credits.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Density.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Erase.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.FileOps.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Flash.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.InstallUninstall.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.LogcatAdvanced.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.MainForm.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ResolutionChange.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ScreenRecord.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SetProp.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Sideload.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SpoofMac.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.Properties.Resources.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.GenerateResource.cache
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CopyComplete
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\shomronsAdbGui.exe
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Release\shomronsAdbGui.pdb
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe.config
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\bin\Release\shomronsAdbGui.pdb
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.csproj.AssemblyReference.cache
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.BackupRestore.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ApkInfoForm.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Credits.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Density.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Erase.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.FileOps.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Flash.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.InstallUninstall.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.LogcatAdvanced.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.MainForm.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ResolutionChange.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ScreenRecord.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SetProp.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Sideload.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SpoofMac.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.Properties.Resources.resources
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.csproj.GenerateResource.cache
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CopyComplete
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\shomronsAdbGui.exe
+C:\Users\Shomron.DANGOT0\Desktop\SJDADB\adbGUI\adbGUI\obj\Release\shomronsAdbGui.pdb
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\adb.exe
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\AdbWinApi.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\AdbWinUsbApi.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\avcodec-60.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\avformat-60.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\avutil-58.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\icon.png
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\msys-usb-1.0.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\scrcpy.exe
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\SDL2.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\swresample-4.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\extTools\scrcpy-server
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe.config
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\shomronsAdbGui.pdb
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\bin\Release\sjd.apk.reader.dll
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.BackupRestore.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ApkInfoForm.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Credits.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Density.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Erase.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.FileOps.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Flash.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.InstallUninstall.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.LogcatAdvanced.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.MainForm.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ResolutionChange.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ScreenRecord.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SetProp.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Sideload.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SpoofMac.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Properties.Resources.resources
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.GenerateResource.cache
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CopyComplete
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\shomronsAdbGui.exe
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\shomronsAdbGui.pdb
+C:\Users\Shomron David\Desktop\CodeProjects\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Scrcpy.resources
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\adb.exe
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\AdbWinApi.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\AdbWinUsbApi.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\avcodec-60.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\avformat-60.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\avutil-58.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\icon.png
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\msys-usb-1.0.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\scrcpy.exe
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\SDL2.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\swresample-4.dll
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\extTools\scrcpy-server
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe.config
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\shomronsAdbGui.exe
+C:\Source\Repos\adbGUI\adbGUI\bin\Release\shomronsAdbGui.pdb
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.BackupRestore.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ApkInfoForm.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Credits.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Density.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Erase.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.FileOps.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Flash.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.InstallUninstall.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.LogcatAdvanced.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.MainForm.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ResolutionChange.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Scrcpy.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.ScreenRecord.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SetProp.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.Sideload.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Forms.SpoofMac.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.Properties.Resources.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.csproj.GenerateResource.cache
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CoreCompileInputs.cache
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\adbGUI.csproj.CopyComplete
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\shomronsAdbGui.exe
+C:\Source\Repos\adbGUI\adbGUI\obj\Release\shomronsAdbGui.pdb

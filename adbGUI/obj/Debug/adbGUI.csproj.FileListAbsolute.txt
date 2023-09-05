@@ -1,0 +1,45 @@
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Debug\adbGUI.exe.config
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Debug\adbGUI.exe
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Debug\adbGUI.pdb
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.BackupRestore.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Credits.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Density.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Erase.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.FileOps.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Flash.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.InstallUninstall.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.LogcatAdvanced.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.MainForm.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.ResolutionChange.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.ScreenRecord.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.SetProp.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Sideload.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.SpoofMac.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Properties.Resources.resources
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.csproj.GenerateResource.cache
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.csproj.CoreCompileInputs.cache
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.exe
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.pdb
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\bin\Debug\sjd.apk.reader.dll
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.csproj.CopyComplete
+C:\Users\Shomron David\Desktop\Code Projects\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.ApkInfoForm.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.csproj.AssemblyReference.cache
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.BackupRestore.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.ApkInfoForm.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Credits.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Density.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Erase.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.FileOps.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Flash.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.InstallUninstall.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.LogcatAdvanced.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.MainForm.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.ResolutionChange.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Scrcpy.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.ScreenRecord.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.SetProp.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.Sideload.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Forms.SpoofMac.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.Properties.Resources.resources
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.csproj.GenerateResource.cache
+C:\Source\Repos\adbGUI\adbGUI\obj\Debug\adbGUI.csproj.CoreCompileInputs.cache
