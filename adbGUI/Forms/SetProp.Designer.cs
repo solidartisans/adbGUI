@@ -104,14 +104,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(628, 90);
+            this.ClientSize = new System.Drawing.Size(628, 84);
             this.Controls.Add(this.groupBox1);
             this.MaximizeBox = false;
             this.MaximumSize = new System.Drawing.Size(1000, 123);
             this.MinimumSize = new System.Drawing.Size(638, 123);
             this.Name = "SetProp";
             this.ShowIcon = false;
-            this.Text = "SetProp";
+            this.Text = "Set Prop";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

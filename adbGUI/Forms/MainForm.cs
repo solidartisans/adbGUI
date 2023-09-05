@@ -334,5 +334,6 @@ namespace adbGUI.Forms
 		{
 			HelperClass.AlwaysClearConsole = ((ToolStripButton)sender).Checked;
 		}
-	}
+
+    }
 }

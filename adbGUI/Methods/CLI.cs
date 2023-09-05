@@ -11,7 +11,9 @@ namespace adbGUI.Methods
 {
 	public static class CLI
 	{
-		private static readonly int defaultCodePage = CultureInfo.CurrentCulture.TextInfo.OEMCodePage;
+		// private static readonly int defaultCodePage = CultureInfo.CurrentCulture.TextInfo.OEMCodePage;
+		private static readonly int defaultCodePage = 65001; // 65001 = UTF-8
+
 
 		static CLI()
 		{

@@ -8,8 +8,8 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>adbGUI</RootNamespace>
-    <AssemblyName>adbGUI</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AssemblyName>shomronsAdbGui</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <TargetFrameworkProfile />
@@ -104,6 +104,9 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="sjd.apk.reader">
+      <HintPath>..\..\apkreader\Csharp.Apk-Reader\bin\Release\sjd.apk.reader.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
@@ -121,6 +124,12 @@
     </Compile>
     <Compile Include="Forms\BackupRestore.Designer.cs">
       <DependentUpon>BackupRestore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ApkInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ApkInfoForm.Designer.cs">
+      <DependentUpon>ApkInfoForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Credits.cs">
       <SubType>Form</SubType>
@@ -151,6 +160,12 @@
     </Compile>
     <Compile Include="Forms\Flash.Designer.cs">
       <DependentUpon>Flash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Scrcpy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Scrcpy.Designer.cs">
+      <DependentUpon>Scrcpy.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\InstallUninstall.cs">
       <SubType>Form</SubType>
@@ -217,6 +232,9 @@
     <EmbeddedResource Include="Forms\BackupRestore.resx">
       <DependentUpon>BackupRestore.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ApkInfoForm.resx">
+      <DependentUpon>ApkInfoForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\Credits.resx">
       <DependentUpon>Credits.cs</DependentUpon>
     </EmbeddedResource>
@@ -244,6 +262,9 @@
     <EmbeddedResource Include="Forms\ResolutionChange.resx">
       <DependentUpon>ResolutionChange.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Scrcpy.resx">
+      <DependentUpon>Scrcpy.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\ScreenRecord.resx">
       <DependentUpon>ScreenRecord.cs</DependentUpon>
     </EmbeddedResource>
@@ -262,6 +283,9 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="app.config" />
+    <None Include="extTools\scrcpy-server">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Properties\app.manifest" />
   </ItemGroup>
   <ItemGroup>
@@ -308,6 +332,41 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\power-button-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="extTools\adb.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\AdbWinApi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\AdbWinUsbApi.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\avcodec-60.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\avformat-60.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\avutil-58.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\msys-usb-1.0.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\scrcpy.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\SDL2.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="extTools\swresample-4.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

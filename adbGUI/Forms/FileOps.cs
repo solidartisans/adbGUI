@@ -74,5 +74,16 @@ namespace adbGUI.Forms
 			var path = txt_FileOpsPullFrom.Text;
 			HelperClass.Execute("adb shell ls -la \"" + path + "\" -F");
 		}
-	}
+
+        private void FileOps_DragDrop(object sender, DragEventArgs e)
+        {
+			string[] files = ((string[])e.Data.GetData(DataFormats.FileDrop));
+			txt_FileOpsPushFrom.Text = files[0];
+		}
+
+        private void FileOps_DragEnter(object sender, DragEventArgs e)
+        {
+			if (e.Data.GetDataPresent(DataFormats.FileDrop)) e.Effect = DragDropEffects.Copy;
+		}
+    }
 }

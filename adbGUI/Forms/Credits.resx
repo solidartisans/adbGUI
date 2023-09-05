@@ -118,12 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>Icons licensed by Creative Commons BY 3.0:
+    <value>Version: 1.1.4 By Shomron Joseph David
+https://www.shomrondavid.co.il
+
+
+Icons licensed by Creative Commons BY 3.0:
 Gregor Cresnar: http://www.flaticon.com/authors/gregor-cresnar
 Elegant Themes: http://www.flaticon.com/authors/elegant-themes
 Freepik: 	http://www.freepik.com
 Dave Gandy:	http://www.flaticon.com/authors/dave-gandy
 
-Version at 06/04/2018</value>
+----------------
+Based on the work of https://github.com/hexadezi/adbGUI</value>
   </data>
 </root>
