@@ -41,5 +41,5 @@ We utilize SJD DLLs (developed by Shomrom Joseph David), a collection of bundled
 
   
 #### Screenshots
-( Will update later )This is the main window.
+
 ![new gui](screenshot/screenshot_2_1.png)  
