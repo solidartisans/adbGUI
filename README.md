@@ -1,4 +1,4 @@
-# adbGUI
+# shomronsAdbGui
 
 ## Based on [hexadezi's adbGUI](https://github.com/hexadezi/adbGUI)
 
